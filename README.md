@@ -85,7 +85,7 @@
         <p>
           点击后等待下载完成。下载完成后双击打开。
         </p>
-          `1.勾选Add Python 3.X to PATH(这一步很重要，不要忘记)`
+          1.勾选`Add Python 3.X to PATH`(这一步很重要，不要忘记)
         <p>
           2.选择自定义安装(点击Customize installation), 在这一步可以修改python安装的位置(一定记住路径)。其他步骤直接选择install。
         </p>
