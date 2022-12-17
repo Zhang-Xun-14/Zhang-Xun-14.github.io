@@ -3,6 +3,7 @@
 
 <html>
 <head>
+  p.r {color:red}
 <meta charset="utf-8">
 <meta name="author" content="Zhang Xun">
 </head>
@@ -82,7 +83,7 @@
           浏览器访问<a href="https://www.python.org/downloads/windows/">https://www.python.org/downloads/windows/</a>, 一般下载图中这两个之一, 32-bit表示是32位机子的, 64-bit表<br>
           示64位机子的。
         </p>
-        <img src="D:/guolirong/张迅文件/张迅 (1)/编程/练/完整项目/python教程/images/anzhuangbaoxuanze.jpg" alt="安装包选择" width="500" height="500">
+        <img src="anzhuangbaoxuanze.jpg" alt="安装包选择" width="500" height="500">
         <p>
           点击后等待下载完成。下载完成后双击打开。
         </p>
@@ -98,7 +99,7 @@
         <p>
           4.在cmd界面输入python。如果出现下图所示的内容, 即为安装成功。
         </p>
-        <img src="D:/guolirong/张迅文件/张迅 (1)/编程/练/完整项目/python教程/images/cmd.jpg" alt="python解释器">
+        <img src="cmd.jpg" alt="python解释器">
       <h3>
         MAC平台安装python
       </h3>
