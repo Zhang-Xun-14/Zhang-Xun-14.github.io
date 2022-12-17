@@ -3,7 +3,9 @@
 
 <html>
 <head>
+{
   p.r {color:red}
+}
 <meta charset="utf-8">
 <meta name="author" content="Zhang Xun">
 </head>
