@@ -2,7 +2,6 @@
 
 
 <html>
-<head>
 <meta charset="utf-8">
 <meta name="author" content="Zhang Xun">
 <style>
@@ -16,7 +15,6 @@
   pre {font-weight:700; font-size:22px;}
   p.r {color:red}
 </style>
-</head>
 <body>
   <h1>
     <big>
