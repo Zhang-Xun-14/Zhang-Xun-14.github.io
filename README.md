@@ -1,11 +1,12 @@
 # Zhang-Xun-14.github.io
 
 
-<html>
-<head>
-{
+
+* {
   p.r {color:red}
 }
+<html>
+<head>
 <meta charset="utf-8">
 <meta name="author" content="Zhang Xun">
 </head>
