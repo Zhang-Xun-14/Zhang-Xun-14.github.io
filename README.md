@@ -6,7 +6,6 @@
 <head>
 <meta charset="utf-8">
 <meta name="author" content="Zhang Xun">
-<title>python教程</title>
 <style>
   h1 {font-size:40px;}
   h2 {font-size:36px;}
