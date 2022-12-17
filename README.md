@@ -4,17 +4,6 @@
 <head>
 <meta charset="utf-8">
 <meta name="author" content="Zhang Xun">
-<style>
-  h1 {font-size:40px;}
-  h2 {font-size:36px;}
-  h3 {font-size:33px;}
-  h4 {font-size:30px;}
-  h5 {font-size:27px;}
-  h6 {font-size:25px;}
-  p {font-weight:600; font-size:22px;}
-  pre {font-weight:700; font-size:22px;}
-  p.r {color:red}
-</style>
 </head>
 <body>
   <h1>
@@ -96,8 +85,8 @@
         <p>
           点击后等待下载完成。下载完成后双击打开。
         </p>
-        <p class="r">
-          1.勾选Add Python 3.X to PATH(这一步很重要，不要忘记)
+        <p>
+          `1.勾选Add Python 3.X to PATH(这一步很重要，不要忘记)`
         </p>
         <p>
           2.选择自定义安装(点击Customize installation), 在这一步可以修改python安装的位置(一定记住路径)。其他步骤直接选择install。
