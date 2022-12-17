@@ -1,14 +1,20 @@
 # Zhang-Xun-14.github.io
 
-
-
-* {
-  p.r {color:red}
-}
 <html>
 <head>
 <meta charset="utf-8">
 <meta name="author" content="Zhang Xun">
+<style>
+  h1 {font-size:40px;}
+  h2 {font-size:36px;}
+  h3 {font-size:33px;}
+  h4 {font-size:30px;}
+  h5 {font-size:27px;}
+  h6 {font-size:25px;}
+  p {font-weight:600; font-size:22px;}
+  pre {font-weight:700; font-size:22px;}
+  p.r {color:red}
+</style>
 </head>
 <body>
   <h1>
